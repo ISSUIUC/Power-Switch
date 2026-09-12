@@ -4,7 +4,7 @@
 //#include "../../STM32_WPAN/app/custom_stm.h"
 //#include "../TCAL9538/TCAL9538.hpp"
 
-gpio_output_status[11] = {
+int gpio_output_status[11] = {
 		0,
 		0,
 		0,
